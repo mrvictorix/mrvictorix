@@ -1,4 +1,5 @@
-Passionate about coding Discord bots and building strong communities. Every «What If?» is a new project waiting to happen!
+### Passionate about coding Discord bots and building strong communities
+#### Every «What If?» is a new project waiting to happen!
 
 ---
 
