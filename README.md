@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/351623168747765761?animated=true&idleMessage=Snoozing...)](https://discord.com/users/351623168747765761)
-
 ### Passionate about coding Discord bots and building strong communities
 #### Every «What If?» is a new project waiting to happen!
 
