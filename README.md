@@ -1,1 +1,16 @@
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Hi there! 👋
+I build Discord experiences.
+
+From custom bots and automation to server structure, branding, and community systems — I enjoy turning ideas into engaging, organized, and scalable Discord communities.
+
+My goal isn't just to develop features, but to create ecosystems where technology, design, and user experience work together seamlessly.
+
+Currently exploring and improving my skills in TypeScript, Node.js, Discord.js, and database architecture while learning how great communities are built.
+
+## My Skills
+![Bot Development](https://skillicons.dev/icons?i=js,ts,nodejs,discordjs)
+![Database](https://skillicons.dev/icons?i=postgres,mysql,prisma)
+![Version Control](https://skillicons.dev/icons?i=git,github)
+![Web](https://skillicons.dev/icons?i=html,css)
+![Tools](https://skillicons.dev/icons?i=postman,notion)
+![Design](https://skillicons.dev/icons?i=figma,ps)
