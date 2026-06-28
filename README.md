@@ -1,11 +1,7 @@
 ## Hi there! 👋
-I build Discord experiences.
+I'm a developer passionate about building Discord experiences.
 
-From custom bots and automation to server structure, branding, and community systems — I enjoy turning ideas into engaging, organized, and scalable Discord communities.
-
-My goal isn't just to develop features, but to create ecosystems where technology, design, and user experience work together seamlessly.
-
-Currently exploring and improving my skills in TypeScript, Node.js, Discord.js, and database architecture while learning how great communities are built.
+I build custom bots, automation, and community systems, focusing on scalability, clean design, and great user experience.
 
 ## My Skills
 ![Bot Development](https://skillicons.dev/icons?i=js,ts,nodejs,discordjs)
