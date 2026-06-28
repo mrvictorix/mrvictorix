@@ -11,6 +11,5 @@ Currently exploring and improving my skills in TypeScript, Node.js, Discord.js, 
 ![Bot Development](https://skillicons.dev/icons?i=js,ts,nodejs,discordjs)
 ![Database](https://skillicons.dev/icons?i=postgres,mysql,prisma)
 ![Version Control](https://skillicons.dev/icons?i=git,github)
-![Web](https://skillicons.dev/icons?i=html,css)
 ![Tools](https://skillicons.dev/icons?i=postman,notion)
 ![Design](https://skillicons.dev/icons?i=figma,ps)
